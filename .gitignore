@@ -1,0 +1,7 @@
+build/
+*.class
+sources_main.txt
+sources_test.txt
+.idea/
+*.iml
+.vscode/
